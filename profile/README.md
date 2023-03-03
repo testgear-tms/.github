@@ -35,7 +35,7 @@ ___
 ### Official Resources
 
 - 💼 [Official site](https://test-gear.io/)
-- 💉 [Help Center](https://support.yoonion.ru/)
+- 💉 [Help Center](support.test-gear.io/hc/en-us)
 - 📖 [Docs - Installation Guide](https://docs.test-gear.io/system-administrator-workflow/install-testgear/)
 - 📖 [Administrator Workflow](https://docs.test-gear.io/administrator-workflow)
 - 📖 [User Workflow](https://docs.test-gear.io/user-workflow)
