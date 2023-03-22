@@ -1,8 +1,8 @@
-# Awesome TMS Test IT
+# Awesome TMS TestGear
 
-- [Awesome TMS Test IT](#awesome-tms-test-it)
+- [Awesome TMS TestGear](#awesome-tms-testgear)
   - [About](#about)
-    - [What is Test IT](#what-is-test-it)
+    - [What is TestGear](#what-is-testgear)
   - [Resources](#resources)
     - [Official Resources](#official-resources)
   - [Adapters](#adapters)
@@ -20,7 +20,7 @@ ___
 
 Welcome everybody to TestGear repository! We are pleased to see all the guests and participants of our open source project.
 
-### What is Test IT
+### What is TestGear
 
 ___
 
