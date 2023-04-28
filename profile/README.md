@@ -48,7 +48,7 @@ ___
 
 ![](/images/frameworks.png)
 
-Adapters are testing framework extensions used to send autotest contents and results of autotest runs to TestGear. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.test-gear.io/user-workflow/automated-testing-workflow)
+Adapters are testing framework extensions used to send autotest contents and results of autotest runs to TestGear. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.test-gear.io/user-guide/integrations/)
 
 ### Official Adapters
 
