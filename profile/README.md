@@ -55,6 +55,7 @@ Adapters are testing framework extensions used to send autotest contents and res
 - 🧪 [@testgear/adapters-java](https://github.com/testgear-tms/adapters-java): Adapter for integration with Java testing frameworks.
 - 🧪 [@testgear/adapters-python](https://github.com/testgear-tms/adapters-python): Adapter for integration with Python testing frameworks.
 - 🧪 [@testgear/adapters-js](https://github.com/testgear-tms/adapters-js): Adapter for integration with JavaScript testing frameworks.
+- 🧪 [@testgear/adapters-dotnet](https://github.com/testgear-tms/adapters-dotnet): Adapter for integration with Dotnet testing frameworks.
 
 ## Clients
 
