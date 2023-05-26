@@ -67,6 +67,7 @@ Clients are libraries used to automate your work with TestGear open API.
 - 🔌 [@testgear/api-client-java](https://github.com/testgear-tms/api-client-java): Client for Java.
 - 🔌 [@testgear/api-client-python](https://github.com/testgear-tms/api-client-python): Client for Python.
 - 🔌 [@testgear/api-client-js](https://github.com/testgear-tms/api-client-js): Client for JavaScript.
+- 🔌 [@testgear/api-client-golang](https://github.com/testgear-tms/api-client-golang): Client for Golang.
 
 ## Importers
 
